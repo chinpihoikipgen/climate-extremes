@@ -1,5 +1,5 @@
 #first for corn, soy, rice, and spring wheat
-setwd('/Users/chinpihoikipgen/Desktop/climate_clean/data/raw/master list')
+#setwd('/Users/chinpihoikipgen/Desktop/climate_clean/data/raw/master list')
 #setwd("/Volumes/Mang/chinpihoikipgen_climate/take")
 season = read.csv("PlantingHarvesting.csv")
 counties = read.csv("County_Master.csv")
