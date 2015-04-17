@@ -1,6 +1,6 @@
 #---------------------------- hd plots ----------------------
 
-load("/Users/chinpihoikipgen/Desktop/climate_clean/data/final_merged_sets/data_final.Rda")
+#load("/Users/chinpihoikipgen/Desktop/climate_clean/data/final_merged_sets/data_final.Rda")
 library(hdrcde)
 data = data_final
 hist(data$yield)
