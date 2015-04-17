@@ -1,7 +1,7 @@
-load("/Users/chinpihoikipgen/Desktop/climate_clean/data/normalised/seasonal_means.Rda")
-load("/Users/chinpihoikipgen/Desktop/climate_clean/data/normalised/crops_irrigatedNorm.Rda")
-load("/Users/chinpihoikipgen/Desktop/climate_clean/data/normalised/crops_NonirrigatedNorm.Rda")
-load("/Users/chinpihoikipgen/Desktop/climate_clean/data/normalised/crops_norm.Rda")
+#load("/Users/chinpihoikipgen/Desktop/climate_clean/data/normalised/seasonal_means.Rda")
+#load("/Users/chinpihoikipgen/Desktop/climate_clean/data/normalised/crops_irrigatedNorm.Rda")
+#load("/Users/chinpihoikipgen/Desktop/climate_clean/data/normalised/crops_NonirrigatedNorm.Rda")
+#load("/Users/chinpihoikipgen/Desktop/climate_clean/data/normalised/crops_norm.Rda")
 
 
 
